@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\bin\ControlBiblioteca.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\bin\ControlBiblioteca.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\bin\ControlBiblioteca.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\obj\Debug\ControlBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\obj\Debug\ControlBiblioteca.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ControlBiblioteca\ControlBiblioteca\obj\Debug\ControlBiblioteca.pdb
